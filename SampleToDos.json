@@ -1,0 +1,132 @@
+[
+  {
+    "description": "Write React Sample App",
+    "dueDate": "2020-02-13",
+    "dollarValue": 0,
+    "notes": "Write a sample app in React that demonstrates CRUD operations for a list of ToDo items. Illustrate React DOM updates using filtering controls.  Use a modal for the edit form.",
+    "completed": false,
+    "todoid": 1
+  },
+  {
+    "description": "ante dictum mi, ac mattis velit justo nec",
+    "dueDate": "2021-01-16T06:39:57-08:00",
+    "dollarValue": 724,
+    "notes": "volutpat nunc sit amet metus. Aliquam erat volutpat.",
+    "completed": false,
+    "todoid": 18
+  },
+  {
+    "description": "sapien imperdiet ornare. In faucibus. Morbi vehicula. Pellentesque",
+    "dueDate": "2020-02-10T10:00:45-08:00",
+    "notes": "suscipit nonummy. Fusce fermentum fermentum arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Phasellus ornare. Fusce mollis. Duis sit",
+    "completed": false,
+    "todoid": 4,
+    "color": "#ffff00"
+  },
+  {
+    "description": "neque pellentesque massa lobortis",
+    "dueDate": "2019-12-08T14:20:32-08:00",
+    "dollarValue": 915,
+    "notes": "purus. Maecenas libero est, congue a, aliquet vel, vulputate eu, odio. Phasellus at augue id",
+    "completed": true,
+    "todoid": 5
+  },
+  {
+    "description": "viverra. Donec tempus, lorem fringilla ornare",
+    "dueDate": "2019-10-13T21:53:42-07:00",
+    "dollarValue": 956,
+    "notes": "et malesuada fames ac turpis egestas. Aliquam fringilla cursus purus. Nullam scelerisque neque sed sem",
+    "completed": true,
+    "todoid": 6
+  },
+  {
+    "description": "nisi.",
+    "notes": "dapibus quam quis diam. Pellentesque habitant morbi tristique senectus",
+    "completed": false,
+    "todoid": 7
+  },
+  {
+    "description": "neque. Nullam",
+    "notes": "nisi sem semper erat, in consectetuer ipsum nunc id enim. Curabitur massa. Vestibulum accumsan neque et nunc. Quisque",
+    "completed": false,
+    "todoid": 8
+  },
+  {
+    "description": "aliquet nec, imperdiet nec, leo.",
+    "dollarValue": 40,
+    "notes": "tellus, imperdiet non, vestibulum nec, euismod in, dolor. Fusce feugiat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam auctor,",
+    "completed": true,
+    "todoid": 19
+  },
+  {
+    "description": "interdum. Nunc sollicitudin commodo",
+    "notes": "non justo. Proin non massa non ante bibendum ullamcorper. Duis cursus, diam at pretium aliquet, metus urna convallis erat, eget tincidunt dui",
+    "completed": false,
+    "todoid": 2
+  },
+  {
+    "description": "mi lacinia mattis. Integer eu lacus. Quisque imperdiet,",
+    "notes": "molestie. Sed id risus quis diam luctus lobortis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Mauris ut quam",
+    "completed": true,
+    "todoid": 3
+  },
+  {
+    "description": "mollis. Phasellus",
+    "dollarValue": 93,
+    "notes": "tincidunt dui augue eu tellus. Phasellus elit pede, malesuada",
+    "completed": false,
+    "todoid": 9
+  },
+  {
+    "description": "enim.",
+    "dueDate": "2020-06-13T13:26:10-07:00",
+    "notes": "ac, fermentum vel, mauris. Integer sem",
+    "completed": false,
+    "todoid": 12
+  },
+  {
+    "description": "dolor vitae dolor. Donec fringilla. Donec feugiat",
+    "dueDate": "2020-05-11T15:04:47-07:00",
+    "dollarValue": 432,
+    "notes": "nibh. Phasellus nulla. Integer vulputate, risus a ultricies adipiscing, enim mi tempor lorem, eget mollis lectus pede et risus. Quisque libero lacus,",
+    "completed": false,
+    "todoid": 13
+  },
+  {
+    "description": "at pretium aliquet, metus urna",
+    "dueDate": "2020-06-08T19:46:24-07:00",
+    "dollarValue": 910,
+    "notes": "a feugiat tellus lorem eu metus. In lorem. Donec elementum,",
+    "completed": false,
+    "todoid": 14
+  },
+  {
+    "description": "penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "dueDate": "2020-01-30T10:36:19-08:00",
+    "notes": "egestas blandit. Nam nulla magna, malesuada vel, convallis in, cursus",
+    "completed": false,
+    "todoid": 15
+  },
+  {
+    "description": "Integer mollis. Integer tincidunt aliquam",
+    "dueDate": "2019-01-11T14:04:38-08:00",
+    "notes": "lobortis mauris. Suspendisse aliquet molestie tellus. Aenean egestas",
+    "completed": true,
+    "todoid": 16
+  },
+  {
+    "description": "molestie arcu. Sed eu nibh vulputate mauris sagittis placerat.",
+    "dueDate": "2019-03-01T04:43:30-08:00",
+    "dollarValue": 293,
+    "notes": "fermentum vel, mauris. Integer sem elit, pharetra ut, pharetra sed, hendrerit a, arcu.",
+    "completed": true,
+    "todoid": 10
+  },
+  {
+    "description": "Proin non massa non ante",
+    "dueDate": "2020-07-01T19:29:18-07:00",
+    "notes": "tincidunt orci quis lectus. Nullam suscipit, est ac",
+    "completed": false,
+    "todoid": 11
+  }
+]
